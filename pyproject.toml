@@ -17,7 +17,7 @@ typer = ">=0.7,<0.13"
 [tool.poetry.dev-dependencies]
 black = "^24.8"
 pytest = "^8.3.3"
-tox = "^4.18.1"
+tox = "^4.20.0"
 pylint = "^3.2.7"
 isort = "^5.13.2"
 
